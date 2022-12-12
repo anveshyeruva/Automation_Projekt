@@ -1,6 +1,7 @@
 /* This program will show demo of a simple calculator*/
 /* This is a second modification*/
 /* This program will add two numbers */
+
 import java.util.Scanner;
 
  public class calculator
@@ -27,7 +28,7 @@ import java.util.Scanner;
                          b = scan.nextFloat();
                          res = a + b;
                          System.out.print("Result = " + res);
-	                 break;															                       
+			 break;															                       
 	      case '2' : System.out.print("Enter Two Number : ");
 	                 a = scan.nextFloat();
 	                 b = scan.nextFloat();
