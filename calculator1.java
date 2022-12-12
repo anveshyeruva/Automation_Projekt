@@ -1,6 +1,6 @@
 /* This program will show demo of a simple calculator*/
 /* This is a second modification*/
-
+/* This program will add two numbers */
 import java.util.Scanner;
 
  public class calculator
